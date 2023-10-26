@@ -16,6 +16,7 @@ Git nor I need the whole SHA.)
 68996
 
 3. What did line 12 of this file say in commit d1d83?
+I forgot to copy and paste it somewhere, but should be "I should really finish this"
 
 4. What changed between commit e474c and 82045?
 
