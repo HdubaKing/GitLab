@@ -19,6 +19,8 @@ Git nor I need the whole SHA.)
 I forgot to copy and paste it somewhere, but should be "I should really finish this"
 
 4. What changed between commit e474c and 82045?
+for gross_sort, it has been changed from lambda x : x["Gross"] to lambda x : int(x["Gross"])
+an top_five from row[:-5:-1] to row[:-6:-1]
 
 ## Predicting merges
 
