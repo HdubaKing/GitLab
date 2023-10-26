@@ -5,8 +5,10 @@ Answer: Jerry Li
 Answer: light blue
 
 3. What is your favorite food?
-Answer: sea foods
+Answer: sea foods,fixed
 
 4. What's one place you've never been but would like to visit?
-Answer: Aegean sea
+Answer: Aegean sea, fixed
+
+5. Add new
 
